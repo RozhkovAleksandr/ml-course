@@ -1,0 +1,5 @@
+hidden_size: 100
+lr: 0.01
+max_epochs: 2
+optimizer: SGD
+use_batch_norm: false
